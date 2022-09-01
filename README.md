@@ -1,2 +1,2 @@
 # gcp-flask-ml-deploy
-This example of gcp-cloud-app 
+This is project to auto-deplot with an ML payload
